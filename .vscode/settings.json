@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "string.h": "c"
+  },
+  "python.linting.pylintEnabled": true,
+  "python.linting.flake8Enabled": false,
+  "python.linting.enabled": true,
+  "python.pythonPath": "C:\\Users\\zhaow\\scoop\\shims\\python.exe"
+}

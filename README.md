@@ -76,6 +76,8 @@ https://www.guballa.de/substitution-solver (Automatic substitution cipher solver
 
 https://www.boxentriq.com/code-breaking/cryptogram (Automatic cipher solver)
 
+https://github.com/Ganapati/RsaCtfTool (RSA attack tool)
+
 ### Number theory
 
 http://factordb.com (factorizations)
@@ -110,6 +112,8 @@ https://repl.it/
 
 https://github.com/graue/esofiles (esoteric programming languages)
 
+http://shell-storm.org/online/Online-Assembler-and-Disassembler/
+
 ### Cracking
 
 https://hashcat.net/hashcat/
@@ -119,3 +123,7 @@ https://www.openwall.com/john/
 https://crackstation.net/
 
 https://quipqiup.com/
+
+### SQL
+
+http://sqlmap.org/ (automatic penetration of SQL databases)

@@ -98,7 +98,25 @@ https://tineye.com/ (for reverse image searches)
 
 https://github.com/sherlock-project/sherlock
 
+### DNS
+
+nslookup
+
+host
+
+dig
+
+https://tools.dnsstuff.com/
+
+https://toolbox.googleapps.com/
+
 https://dnsdumpster.com/ (DNS searching)
+
+https://github.com/TheRook/subbrute (enumerates subdomains)
+
+https://github.com/aboul3la/Sublist3r (enumerates subdomains)
+
+https://github.com/guelfoweb/knock (enumerates subdomains)
 
 ### Packet analysis
 
